@@ -1,1 +1,1 @@
-# pyhton-guesssing-game
+# python-guesssing-game
